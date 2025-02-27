@@ -12,9 +12,9 @@ The device will integrate an [accelerometer](https://www.adafruit.com/product/46
 - [Adafruit Feather ESP32-S3](https://www.adafruit.com/product/5691)
 ![ESP32-S3](https://cdn-shop.adafruit.com/product-videos/1024x768/5691-05.mp4)
 - [LSM6DSO32 Digital Accelerometer](https://www.adafruit.com/product/4692)
-[LSM6DSO32](https://cdn-shop.adafruit.com/970x728/4692-05.jpg)
+![LSM6DSO32](https://cdn-shop.adafruit.com/970x728/4692-05.jpg)
 - [Adalogger FeatherWing](https://www.adafruit.com/product/2922) for data logging and RTC
-[Adalogger](https://cdn-shop.adafruit.com/970x728/2922-06.jpg)
+![Adalogger](https://cdn-shop.adafruit.com/970x728/2922-06.jpg)
 
 ## Objectives
 
