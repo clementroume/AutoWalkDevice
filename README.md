@@ -5,14 +5,16 @@
 AutoWalkDevice is a preliminary project aimed at creating a lightweight and autonomous device to collect walking data, specifically measuring the time between steps. This project builds on previous academic work (see 
 [Almurad et al., 2017](https://www.sciencedirect.com/science/article/abs/pii/S0167945717301288), [Almurad et al., 2018](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.01766/full), and [Ezzina et al., 2020](https://journals.humankinetics.com/view/journals/mcj/25/3/article-p475.xml))  with the goal of developing a more compact, discreet, and efficient solution.
 
-The device will integrate an [accelerometer](https://www.adafruit.com/product/4692), an [SD card](https://www.adafruit.com/product/2922) for data storage, and a [Real-Time Clock (RTC)](https://www.adafruit.com/product/2922), all powered by the [Adafruit Feather ESP32-S3](https://www.adafruit.com/product/5691).
+The device will integrate an [accelerometer](https://www.adafruit.com/product/4692) and an [SD card with a built-in Real-Time Clock (RTC)](https://www.adafruit.com/product/2922) for data storage and timekeeping, all powered by the [Adafruit Feather ESP32-S3](https://www.adafruit.com/product/5691).
 
 ## Components
 
 - [Adafruit Feather ESP32-S3](https://www.adafruit.com/product/5691)
-- [ADXL345 Digital Accelerometer](https://www.adafruit.com/product/4692)
-- [SD card breakout](https://www.adafruit.com/product/2922) for data logging
-- [RTC DS3231 Precision Real-Time Clock](https://www.adafruit.com/product/2922)
+![ESP32-S3](https://cdn-shop.adafruit.com/product-videos/1024x768/5691-05.mp4)
+- [LSM6DSO32 Digital Accelerometer](https://www.adafruit.com/product/4692)
+[LSM6DSO32](https://cdn-shop.adafruit.com/970x728/4692-05.jpg)
+- [Adalogger FeatherWing](https://www.adafruit.com/product/2922) for data logging and RTC
+[Adalogger](https://cdn-shop.adafruit.com/970x728/2922-06.jpg)
 
 ## Objectives
 
