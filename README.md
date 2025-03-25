@@ -8,7 +8,7 @@ The device integrates an [LSM6DSO32 Digital Accelerometer](https://www.adafruit.
 
 ## About the Developer
 
-I’m Clément Roume, a Doctor in Human Movement Sciences from the University of Montpellier and a dedicated researcher in physiological complexity and motor control. My academic journey has spanned years of rigorous research, teaching, and hands-on development of innovative projects like AutoWalkDevice. I started my 24-month alternance as a Full Stack Developer in December 2024, expanding my expertise in web technologies while exploring my passion for embedded systems and data analysis—even without a formal background in electronics.
+I’m Clément Roume, a Doctor in Human Movement Sciences from the University of Montpellier and a dedicated researcher in physiological complexity and motor control. My academic journey has spanned years of rigorous research, teaching, and hands-on development of innovative projects like AutoWalkDevice.
 
 I blend my academic insights with a genuine curiosity for technology, always striving to solve real-world problems through creative and practical solutions. Connect with me on [LinkedIn](https://www.linkedin.com/in/croume/) or explore my projects on [GitHub](https://github.com/clementroume).
 
